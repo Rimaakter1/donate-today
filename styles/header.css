@@ -1,0 +1,33 @@
+/* banner section styles  */
+
+.banner-section {
+    background-image: linear-gradient(to bottom, rgb(34, 34, 34), rgba(0, 0, 0, 0), rgb(43, 43, 43)), url('../images/donation13.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.banner-content {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+.banner-title {
+    color: var(--font-color);
+    font-family: var(--font-inter);
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 79px;
+    margin-bottom: 20px;
+}
+
+.banner-desc {
+    color: var(--font-color);
+    font-family: var(--font-poppins);
+    font-size: 1.1rem;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
