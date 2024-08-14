@@ -5,8 +5,8 @@
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
+    background-position: center;
     height: 100vh;
-
 }
 
 .banner-content {

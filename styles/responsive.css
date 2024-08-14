@@ -1,0 +1,70 @@
+@media screen and (max-width:576px) {
+
+    .section-margin {
+        margin-top: 60px;
+    }
+
+    .section-title {
+        font-size: 2.5rem;
+    }
+
+    .section-desc {
+        font-size: 1rem;
+    }
+
+    .donate-amount-container,
+    .donation-plan-container,
+    .donation-first-reason-container {
+        flex-direction: column;
+
+    }
+
+
+    .banner-content,
+    .reason-img,
+    .reason-content {
+        width: 100%;
+
+    }
+
+    .banner-content {
+        padding: 10px;
+    }
+
+    .banner-title {
+        font-size: 2.6rem;
+        line-height: 58px;
+    }
+
+
+
+    .donate-amount-container {
+        margin-bottom: 30px;
+    }
+
+    .donation-first-reason-container {
+        margin-bottom: 10px;
+    }
+
+    .donation-second-reason-container {
+        flex-direction: column-reverse;
+    }
+
+    #contribute-btn {
+        margin-bottom: 0px;
+    }
+
+
+    .subscribe-container {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .subscribe-btn {
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+
+
+
+}
